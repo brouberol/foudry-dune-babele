@@ -19,15 +19,16 @@
     "requires": [
       {
         "id": "babele",
-        "type": "module",
-        "compatibility": {}
+        "type": "module"
       },
-
       {
         "id": "dune",
-        "type": "system",
-        "compatibility": {}
+        "type": "system"
       }
     ]
-  }
+  },
+  "relationships.systems": "dune",
+  "url": "https://github.com/brouberol/foudry-dune-babele",
+  "manifest":"https://raw.githubusercontent.com/brouberol/foudry-dune-babele/main/module.json",
+  "download": "https://github.com/brouberol/foudry-dune-babele/archive/refs/heads/main.zip"
 }
