@@ -1,5 +1,9 @@
 {
   "label": "Talents",
+  "mapping": {
+    "description": "data.description",
+    "rule": "data.rule"
+  },
   "entries": {
     "Guildsman": {
       "name": "Guildsman"
@@ -17,7 +21,9 @@
       "name": "Find Trouble"
     },
     "Bold": {
-      "name": "Bold"
+      "name": "Audacieux",
+      "description": "Lorsque vous prenez des risques calculés, vous avez tendance à réussir plus souvent qu'il ne semble raisonnable.",
+      "rule": "Lorsque vous sélectionnez ce talent, choisissez une seule compétence. Lorsque vous effecturez un test en utilisant la compétence choisie et que vous achetez des d20 supplémentaires en générant de la Menace pour le maître de jeu, vous pouvez relancer un seul d20 de cette réserve de dés."
     },
     "Subtle Words": {
       "name": "Subtle Words"
