@@ -1,8 +1,8 @@
 {
   "label": "Talents",
   "mapping": {
-    "description": "data.description",
-    "rule": "data.rule"
+    "description": "system.description",
+    "rule": "system.rule"
   },
   "entries": {
     "Guildsman": {
