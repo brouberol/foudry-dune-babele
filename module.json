@@ -1,0 +1,33 @@
+{
+  "id": "dune-adventures-imperium-babele",
+  "title": "Dune - Adventures in the Imperium - Babele Compendiun translations",
+  "description": "Compendium translations for the Dune - Adventures in the Imperium game system",
+  "authors": [
+    {
+      "name": "Balthazar Rouberol"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": [
+    "register.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      },
+
+      {
+        "id": "dune",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}
