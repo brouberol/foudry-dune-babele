@@ -6,171 +6,279 @@
   },
   "entries": {
     "Guildsman": {
-      "name": "Guildsman"
+      "name": "Guildien (Talent de la Guilde Spatiale)",
+      "description": "Vous possédez des relations au sein de la Guilde Spatiale, ce qui vous confère un accès plus important que les autres à ses ressources. Vous n'êtes pas l'un de ses Navigateurs, mais vous pouvez être un agent, un représentant, un banquier, un diplomate ou un associé quelconque.",
+      "rule": "Une fois par aventure, vous pouvez faire appel à vos relations au sein de la Guilde et utiliser ses infrastructures ou ses ressources, ou bien organiser une réunion avec plusieurs de ses membres importants. Vous n'avez pas l'autorité pour exiger quoi que ce soit au nom de la Guide elle-même. Si vous utilisez les ressources de l'organisation plus d'une fois par aventure, votre deuxième tentative concédera 2 points de Menace, la troisième 4 points, et ainsi de suite par tranche de +2 points. A force, vous risquez d'attirer sur vous une attention indésirable."
     },
     "Cool Under Pressure": {
-      "name": "Cool Under Pressure"
+      "name": "Le Calme dans la Tempête",
+      "description": "Quand les choses se corsent, vous inspirez un grand coup et vous faites ce qu'il faut.",
+      "rule": "Lorsque vous choisissez ce talent, associez-lui une compétence. Quand vous faites un test avec cette compétence, vous pouvez avant de lancer les dés dépenser 1 point de Détermination pour réussir automatiquement. Cependant, vous ne générez aucun point d'Impulsion. Les conditions normales régissant la dépense de points de Détermination s'appliquent toujours."
     },
     "Prana-Bindu": {
-      "name": "Prana-Bindu"
+      "name": "Entraînement Prana-Bindu (Talent de Bene Gesserit)",
+      "description": "Vous possédez la maîtrise totale de votre corps. Vous contrôlez tous vos muscles et vos nerfs et vous êtes même parvenue à dominer votre chimie interne et votre métabolisme corporel.",
+      "rule": "Lorsque vous faites un test de Mobilité ou de Discipline qui fait appel au contrôle que vous exercez sur votre corps, vous pouvez relancer un d20. Vous maîtrisez parfaitement votre respiration, votre rythme cardiaque et vos organes. Vous pouvez aussi choisir quand concevoir un enfant et déterminer ses caractéristiques physiques et génétiques."
     },
     "Voice": {
-      "name": "Voice"
+      "name": "Voix (Talent de Bene Gesserit)",
+      "description": "Vous avez été entraînée à moduler votre voix afin d'influencer le subconscient de vos interlocuteurs. Grâce à elle, vous êtes capable de les manipuler avec subtilité, d'altérer leurs motivations et leurs humeurs, et même de contraindre les réfractaires à vous obéir.",
+      "rule": "Vous pouvez utiliser la Voix quand vous parlez à quelqu'un. Cependant, il vous aura fallu l'observer pendant un petit moment avant de procéder. De plus, il devra être en mesure de vous entendre. Lorsque vous vous servez de ce talent, vous pouvez concéder 1, 2 ou 3 points de Menace et obtenir le même nombre de réussites automatiques sur un test de Rhétorique effectué pour influencer votre cible. Plus ce nombre est élevé, plus votre usage de la Voix sera évident et plus on risque de le remarquer. Votre entraînement vous permet aussi d'acheter ces réussites automatiques pour résister aux effets de ce talent."
     },
     "Find Trouble": {
-      "name": "Find Trouble"
+      "name": "Chercher les Ennuis",
+      "description": "Où que vous alliez, vous savez où trouver les criminels.",
+      "rule": "Une fois par aventure, quel que soit le lieu où vous vous trouvez, vous êtes toujours en mesure de contacter la pègre ou le marché noir (si tant est qu'il y en ait un dans cette région). Cela ne signifie pas que ses membres seront bien disposés à votre égard, simplement que vous parvenez à obtenir un contact."
     },
     "Bold": {
       "name": "Audacieux",
-      "description": "Lorsque vous prenez des risques calculés, vous avez tendance à réussir plus souvent qu'il ne semble raisonnable.",
-      "rule": "Lorsque vous sélectionnez ce talent, choisissez une seule compétence. Lorsque vous effecturez un test en utilisant la compétence choisie et que vous achetez des d20 supplémentaires en générant de la Menace pour le maître de jeu, vous pouvez relancer un seul d20 de cette réserve de dés."
+      "description": "Lorsque vous prenez des risques calculés, vous faites fi des statistiques et réussisez plus souvent qu'attendu.",
+      "rule": "Lorsque vous choisissez ce talent, associez-lui une compétence. Si vous faites un test impliquant cette compétence et que vous achetez des d20 supplémentaires en concédant des points de Menace au meneur de jeu, vous pouvez relancer un d20 et un seul dans cette réserve de dés."
     },
     "Subtle Words": {
-      "name": "Subtle Words"
+      "name": "Discours Roué",
+      "description": "Quelques mots, prononcés d'une voix douce au bon endroit et au bon moment, vous suffisent pour influencer les autres. Les gens n'ont peut-être même pas conscience de l'impact que vos paroles peuvent avoir.",
+      "rule": "Lorsque vous faites un test de Rhétorique et que vous achetez un ou plusieurs dés en dépensant des points d'Impulsion, vous pouvez créer gratuitement un nouveau trait. Celui-ci s'appliquera à la personne à qui vous avez parlé, et représentera l'influence que vous exercez sur ses pensées ou son humeur."
     },
     "Decisive Action": {
-      "name": "Decisive Action"
+      "name": "Action Décisive",
+      "description": "En combat, vous prenez des risques qui paraissent souvent inconsidérés ou inutiles et pourtant, vous avez le chic pour réussir vos entreprises.",
+      "rule": "Dans un conflit, lorsque vous réussissez un test de Combat atin d'éliminer un atout parmi ceux d'un adversaire et que vous avez acheté au moins un dé en concédant des points de Menace, vous pouvez dépenser 2 points d'Impulsion pour en éliminer un deuxième."
     },
     "Twisted Mentat": {
-      "name": "Twisted Mentat"
+      "name": "Mentat Tordu (Talent)",
+      "description": "Le Bene Tleilax a façonné et conçu vos capacités de Mentat, et vous a débarrassé de ces trivialités que sont la morale, les tabous ou la décence.",
+      "rule": "Quand vous faites un test d'Analyse, vous générez 1 point d'Impulsion bonus pour chaque dé acheté en concédant des points de Menace. Cette Impulsion ne peut s'utiliser que pour Obtenir des informations sur les moyens les plus efficaces de faire du mal ou de faire souffrir un individu présent dans la scène, ou bien pour créer un trait. Ce trait représentera une faiblesse que vous avez découverte et que vous pouvez exploiter. Ce talent ne peut être choisi qu'à la création du personnage."
     },
     "Dedication": {
-      "name": "Dedication"
+      "name": "Dévouement",
+      "description": "Votre résolution ne faiblit jamais",
+      "rule": "Après avoir dépensé 1 point de Détermination, lancez 1d20. Si vous obtenez un résultat inférieur ou égal à votre valeur de Discipline pure, vous regagnez immédiatement ce point."
     },
     "Nimble": {
-      "name": "Nimble"
+      "name": "Agile",
+      "description": "Vous êtes vif et vous vous laissez rarement arrêter par un obstacle, quel qu'il soit.",
+      "rule": "Lorsque vous effectuez un test de Mobilité pour vous déplacer, ou bien contourner ou traverser un terrain difficile ou des obstacles physiques (comme au cours d'un duel ou d'une escarmouche), sa difficulté diminue de 2. Si elle tombe à 0 grâce à ce talent, vous franchissez ou évitez librement l'obstacle, comme s'il n'était pas là."
     },
     "To Fight Someone Is to Know Them": {
-      "name": "To Fight Someone Is to Know Them"
+      "name": "Pour Combattre Quelqu'un, Il Faut Le Connaître (Compétence)",
+      "description": "Vous êtes devenu un expert dans l'art d'étudier vos ennemis au cours d'un conflit. Vous apprenez à penser comme eux et vous devinez ce qu'ils cachent à leur manière de bouger, d'attaquer et de se défendre.",
+      "rule": "Lorsque vous choisissez ce talent, associez-le à une compétence. Si vous remportez un conflit en faisant usage de celle-ci, vous gagnez 2 points d'Impulsion que vous pouvez dépenser pour Obtenir des informations, ou bien pour créer un trait qui représentera un enseignement ou une intuition obtenus sur votre adversaire."
     },
     "Mentat Discipline": {
-      "name": "Mentat Discipline"
+      "name": "Discipline Mentat (Talent de Mentat)",
+      "description": "Grâce à un conditionnement mental intense et une formation poussée, vous avez affûté votre intelligence et elle est devenue un outil puissant et précieux. Vous êtes capable de mémoriser et de traiter de grandes quantités d'informations à une vitesse formidable.",
+      "rule": "Votre mémoire est presque parfaite, même pour les données les plus complexes. Lorsque vous effectuez un test d'Analyse pour vous rappeler de ces données, on considère que l'un des d20 dans votre réserve a fait 1 et vous ne le lancez pas."
     },
     "Imperial Conditioning": {
-      "name": "Imperial Conditioning"
+      "name": "Conditionnement Impérial",
+      "description": "Vous avez suivi un conditionnement psychologique intense qui vous empêche de prendre une vie humaine, ou de faire du mal à un humain. Cette étape est nécessaire, car les gens importants et haut placés ne doivent pas craindre que leurs médecins ne soient en réalité des assassins.",
+      "rule": "Vous êtes incapable de faire délibérément du mal ou de tuer un être humain. Toute tentative visant à vous y contraindre échoue automatiquement. De plus, vous réussissez automatiquement les tests de compétence visant à persuader autrui que vous ne lui voulez aucun mal."
     },
     "Intense Study": {
-      "name": "Intense Study"
+      "name": "Étude Poussée",
+      "description": "Vous êtes extrêmement cultivé et disposez de vastes connaissances sur un large éventail de sujets.",
+      "rule": "Une fois par scène, vous pouvez utiliser votre compétence d'Analyse sur un et un seul test de compétence, et vous en servir à la place d'un autre. On considère que vous disposez d'une spécialisation sur ce test."
     },
     "Failed Navigator": {
-      "name": "Failed Navigator"
+      "name": "Navigateur Raté",
+      "description": "Vous avez passé les épreuves pour devenir un Navigateur de la Guilde, mais vous n'avez pas réussi à remplir les conditions requises. Pourtant, pendant un bref instant, votre conscience s'est unie à l'univers. Sous la pression, votre esprit répète parfois l'expérience et vous offre une brève intuition.",
+      "rule": "Lorsque vous dépensez 1 point de Détermination, le meneur vous accordera une Intuition supplémentaire, en lien ou sans aucun rapport avec vos activités actuelles."
     },
     "Direct": {
-      "name": "Direct"
+      "name": "Impérieux",
+      "description": "Votre volonté et votre présence peuvent pousser les autres à agir vite et efficacement.",
+      "rule": "Une fois par scène, vous pouvez ordonner à un allié ou à un subordonné d'agir et vous n'avez pas besoin d'effectuer de test pour cela. Votre cible doit sur-le-champ effectuer une action de son choix et vous avez la possibilité de l'aider dans n'importe quel test qu'il décide d'entreprendre. Si vous faites appel à ce talent au cours d'un conflit, l'allié agit à votre tour, et ce même s'il a déjà effectué son action. Cela ne l'empêche pas d'intervenir plus tard au cours du round."
     },
     "Collaboration": {
-      "name": "Collaboration"
+      "name": "Collaboration (Compétence)",
+      "description": "Vous avez appris à vos alliés comment s'appuyer sur votre expertise et cet enseignement a porté ses fruits.",
+      "rule": "Lorsque vous choisissez ce talent, associez-lui une compétence dont la valeur est égale ou supérieure à 6. Si l'un de vos alliés fait un test avec cette compétence et que vous êtes en mesure de communiquer avec lui, vous pouvez dépenser 2 points d'Impulsion pour lui permettre d'utiliser votre valeur dans la compétence, ainsi que l'une de vos spécialisations (si elle s'applique)."
     },
     "Bolster": {
-      "name": "Bolster"
+      "name": "Soutien",
+      "description": "Vous vous montrez si sûr et déterminé que vous devenez une véritable inspiration pour les autres, qui risqueraient de flancher sans vous.",
+      "rule": "Une fois par scène, lorsqu'un allié rate un test de compétence, vous pouvez dépenser sur-le-champ 2 points d'Impulsion ou concéder 2 points de Menace pour lui permettre de relancer sa réserve de dés. Il pourra alors utiliser votre valeur de Discipline à la place de sa compétence quand il refera le test."
     },
     "Dual Fealty": {
-      "name": "Dual Fealty"
+      "name": "Double Allégeance",
+      "description": "Vous servez deux factions différentes avec le même zèle et vous bénéficiez de leur confiance.",
+      "rule": "Choisissez deux factions auxquelles vous serez loyal. En règle générale, il s'agira de votre Maison et d'un autre groupe, comme le Bene Gesserit, ou bien d'une organisation avec laquelle vous avez des contacts raisonnablement réguliers. Ces deux factions sont au courant de votre double allégeance; autant l'une que l'autre, elles s'attendent à ce que vous ne les trahissiez pas au profit de l'une d'entre elles. Vous pouvez interagir amicalement avec leurs membres sans redouter une félonie ou une menace de leur part."
     },
     "Make Haste": {
-      "name": "Make Haste"
+      "name": "Célérité",
+      "description": "La vitesse est précieuse, même si cela entraîne aussi des conséquences",
+      "rule": "Lorsque vous effectuez un test de Mobilite, vous pouvez décider de subir une complication supplémentaire. En échange, vous obtenez une réussite automatique. Au cours d'un conflit, et ce quelle que soit sa nature, vous pouvez concéder 1 point de Menace pour agir en premier, sans tenir compte de l'ordre d'initiative."
     },
     "Specialist": {
-      "name": "Specialist"
+      "name": "Spécialiste",
+      "description": "Vos devoirs requièrent que vous gériez un plus grand nombre d'atouts appartenant à une catégorie précise.",
+      "rule": "Vous pouvez acheter ce talent plusieurs fois. Chaque fois que vous le faites, choisissez une catégorie d'atouts dans la liste suivante: duel, guerre, espionnage ou intrigue. Le nombre d'atouts dont vous disposez augmente de 2, et ils doivent appartenir à la catégorie que vous avez sélectionnée."
     },
     "Putting Theory into Practice": {
-      "name": "Putting Theory into Practice"
+      "name": "La Théorie en Pratique",
+      "description": "Vous avez appris comment tirer rapidement un avantage pratique de connaissances nouvellement acquises.",
+      "rule": "Une fois par scène, lorsque vous voulez Obtenir des informations, vous pouvez gratuitement créer un trait. Il doit représenter un avantage, une opportunité ou une faiblesse que vous avez identifié grâce aux renseignements reçus."
     },
     "Calculated Prediction": {
-      "name": "Calculated Prediction"
+      "name": "Analyse Projective (Talent de Mentat)",
+      "description": "Vous mobilisez les faits et les chiffres que vous avez mémorisés en conjonction avec votre aptitude à traiter les informations, ce qui vous permet de tenter une prédiction sur l'avenir. Ces projections ne sont jamais fiables à 100%, car des variables que vous ne connaissez pas peuvent intervenir et affecter le résultat.",
+      "rule": "Vous passez quelques minutes à méditer afin d'anticiper le futur, ce qui nécessite un test d'Analyse (difficulté 4). En cas de réussite, vous pouvez demander au meneur d'énoncer quelque chose qui se déroulera probablement dans l'avenir. Vous pouvez obtenir une prédiction supplémentaire par tranche de 2 points d'Impulsion dépensés sur ce test. Le meneur peut rester vague dans ses révélations et rien ne l'oblige à détailler le contexte de la projection, pas plus que les raisons qui expliqueraient la survenue de l'événement."
     },
     "Verify": {
-      "name": "Verify"
+      "name": "Vérification (Talent de Mentat)",
+      "description": "Vous disposez de tellement de données que vous êtes en mesure de remarquer leurs contradictions et de déterminer ou se situent les tausses intormations.",
+      "rule": "Si vous dépensez un point d'Impulsion, vous pouvez demander au meneur de confirmer la véracité d'un renseignement en votre possession. Vous n'avez pas besoin de faire un test de compétence, comme lorsque vous voulez Obtenir des informations. Les données peuvent autant provenir de vos suppositions que d'un document précis ou d'une rumeur spécifique."
     },
     "Hyperawareness": {
-      "name": "Hyperawareness"
+      "name": "Hyperacuité (Talent du Bene Gesserit)",
+      "description": "Votre formation a aiguisé vos perceptions à un degré extraordinaire, ce qui vous permet de remarquer des détails infimes pour le commun des mortels. Armée de cette perspicacité, vous êtes en mesure de découvrir des secrets et des vérités à côté desquelles les autres pourraient passer.",
+      "rule": "Lorsque vous dépensez de l'Impulsion pour Obtenir des informations à propos de la situation actuelle, du lieu où vous vous trouvez ou de la personne que vous êtes en train d'observer, vous pouvez poser deux questions avec le premier point d'Impulsion dépensé. De plus, quelle que soit la question, les limites appliquées à la faculté d'observation des autres ne vous concernent pas"
     },
     "Masterful Innuendo": {
-      "name": "Masterful Innuendo"
+      "name": "Le Parfait Sous-Entendu",
+      "description": "Vous savez toujours comment dire plus d'une chose à la fois. Votre discours transmet bien sûr le sens littéral de vos mots, mais aussi un autre, dissimulé dans les insinuations, les allusions et signaux, que seuls les véritables destinataires comprendront.",
+      "rule": "Lorsque vous faites un test de Rhétorique, vous pouvez choisir d'augmenter sa difficulté de 1 afin d'y cacher un autre message. Vous devez désigner son destinataire.  Les autres personnes ne savent pas que vous communiquez un contenu différent, à moins de disposer elles aussi de ce talent ou d'une capacité quelconque pour détecter ce qui n'est pas évident (par exemple, le talent Hyperacuite)."
     },
     "Constantly Watching": {
-      "name": "Constantly Watching"
+      "name": "Toujours Sur Ses Gardes",
+      "description": "Vous êtes vigilant et cette habitude confine parfois à la paranoïa... mais on vous prend rarement par surprise.",
+      "rule": "Lorsque vous effectuez un test de compétence dans le but de détecter un danger ou des ennemis dissimulés, vous diminuez de 2 la difficulté de cette action (minimum 0). De plus, une fois par scène, lorsqu'un adversaire choisit de Garder l'initiative, vous pouvez augmenter de 2 le coût de sa manœuvre."
     },
     "The Reason I Fight": {
-      "name": "The Reason I Fight"
+      "name": "Pourquoi Je Me Bats (Principe)",
+      "description": "La compétence n'est pas le seul facteur déterminant dans la victoire; les gens qui en veulent plus, ou bien qui sont animés par un dessein supérieur, peuvent triompher alors qu'ils auraient dû échouer.",
+      "rule": "Lorsque vous choisissez ce talent, associez-lui un principe dont la valeur est égale ou supérieure à 6. Si vous effectuez un test de Combat en utilisant ce principe et que sa maxime correspond à l'action que vous tentez d'accomplir, vous pouvez relancer 1d20."
     },
     "Advisor": {
-      "name": "Advisor"
+      "name": "Conseiller",
+      "description": "Vous avez le chic pour sortir les autres des problèmes",
+      "rule": "Lorsque vous choisissez ce talent, associez-lui une compétence. Quand vous assistez un allié et que vous l'utilisez, ce dernier peut relancer un d20 dans sa réserve de dés."
     },
     "Rapid Maneuver": {
-      "name": "Rapid Maneuver"
+      "name": "Manoeuvre Rapide",
+      "description": "Vous êtes preste, capable de franchir un terrain, de trouver l'itinéraire le plus court et faire en sorte que vos outils soient plus rapides que les autres.",
+      "rule": "Lorsque vous faites un test pour atteindre rapidement votre destination, que ce soit à pied ou à bord d'un véhicule, réduisez sa difficulté de 1. Au cours d'un conflit, lorsque vous déplacez un atout, vous pouvez lui faire franchir une zone supplémentaire pour 1 point d'Impulsion au lieu de 2."
     },
     "Mind Palace": {
-      "name": "Mind Palace"
+      "name": "Cloisonnement Mental (Talent de Mentat)",
+      "description": "Votre mémoire est exceptionnelle. Vous êtes en mesure de renouer le fil des événements que vous avez vécus et de vous souvenir des lieux où vous êtes allé avec une précision parfaite, ce qui vous permet d'y retourner par la suite.",
+      "rule": "Vous pouvez faire un test d'Analyse (difficulté 0) afin de vous souvenir d'un événement passé ou d'un lieu où vous vous êtes déjà rendu. Vous pouvez dépenser l'Impulsion que vous générez sur ce test pour vous rappeler de faits et de détails à ce sujet. On considère que ce talent équivaut à une Obtention d'information; toutefois, vous pouvez interroger le meneur sur des choses qui se sont déroulées dans le passé, et non pas seulement sur celles qui ont lieu à ce moment dans la scène."
     },
     "Performer": {
-      "name": "Performer"
+      "name": "Artiste",
+      "description": "Vos talents de musicien ou de poète vous aident à apaiser et à inspirer vos camarades.",
+      "rule": "Une tois par scène, vous pouvez distraire le groupe grâce à un court spectacle, comme jouer de la balisette, chanter, réciter un poème, danser et même jongler. Une fois le spectacle terminé, vous pouvez ajouter 1 à la réserve d'Impulsion du groupe."
     },
     "Binding Promise": {
-      "name": "Binding Promise"
+      "name": "Promesse Oblige",
+      "description": "Que ce soit à travers votre comportement, grâce à votre réputation ou bien vos méthodes de persuasion, vous savez convaincre les plus réticents de vous donner leur parole.",
+      "rule":"Lorsque vous voulez persuader quelqu'un de conclure une promesse ou un accord et que vous réussissez un test de Rhétorique, vous pouvez dépenser 1, 2 ou 3 points d'Impulsion (ou de Menace) pour engager leur responsabilité dans ce pacte. Si cette personne souhaite revenir sur sa parole, elle doit dépenser un nombre de points de Menace (ou d'Impulsion) égal au double du nombre de points d'Impulsion que vous avez investis."
     },
     "Hidden Motives": {
-      "name": "Hidden Motives"
+      "name": "Intentions Cachées",
+      "description": "Vous êtes passé maître dans l'art de dissimuler vos intentions et vos motivations. Rares sont ceux à connaître vraiment ce qui vous fait avancer, même s'ils pensent vous comprendre.",
+      "rule": "Lorsqu'un adversaire rate un test d'Analyse ou de Rhétorique contre vous, vous pouvez immédiatement créer un trait qui reflétera une idée erronée qu'il se sera faite à votre sujet."
     },
     "Improvised Weapon": {
-      "name": "Improvised Weapon"
+      "name": "Arme Improvisée",
+      "description": "En un clin d'œil, vous pouvez transformer les objets les plus inoffensifs en armes mortelles.",
+      "rule": "Une fois par scène, vous pouvez créer gratuitement un atout dont la qualité sera égale à 0, et dont vous vous servirez au cours d'un duel ou une escarmouche. Pierre, bouteille brisée ou éclat de verre, peu importe, cet objet devient une arme entre vos mains. L'atout disparaît à la fin du conflit pendant lequel il a servi, car il sera trop endommagé pour pouvoir être réutilisé."
     },
     "Combat Medic": {
-      "name": "Combat Medic"
+      "name": "Médecine de Guerre (Talent de Docteur Suk)",
+      "description": "Vous êtes formé à dispenser rapidement des soins médicaux, même en plein combat.",
+      "rule": "Vous pouvez dépenser 1 point d'Impulsion pour diminuer de 2 les conditions d'une tâche étendue d'un allié impliqué dans un combat physique. L'usage de ce talent constitue une action."
     },
     "Mask of Power": {
-      "name": "Mask of Power"
+      "name": "Masque du Pouvoir",
+      "description": "Vous prétendez avec assurance que vous en savez bien plus qu'il n'y paraît sur les secrets d'un ennemi.",
+      "rule": "Une fois par scène, vous pouvez gratuitement créer un atout, comme une preuve de chantage ou une faveur que l'on vous doit. Celui-ci vous permettra de lancer un conflit d'intrigue ou d'espionnage avec la personne de votre choix. Bien sûr, ce n'est que du vent, mais votre cible ne le sait pas. Cet atout disparaîtra à la fin du conflit; si vous êtes vaincu, votre bluff apparaîtra au grand jour et vous subirez une complication supplémentaire."
     },
     "Adrenaline Shot": {
-      "name": "Adrenaline Shot"
+      "name": "Chasser la Douleur",
+      "description": "Vous êtes doué lorsqu'il s'agit de rafistoler les gens, même si vous ne leur faites oublier la douleur que pour un bref instant.",
+      "rule": "Le personnage dépense l'une de ses actions et peut effacer les effets de n'importe quelle complication physique sur un individu situé dans la même zone que lui. Cette complication ne disparaît pas pour autant, et elle se manifeste à la fin de la scène si elle n'a pas été définitivement supprimée d'une manière ou d'une autre. Ce talent ne peut servir qu'une fois sur un même individu au cours d'une scène, mais le Suk peut y faire appel sur n'importe quel personnage."
     },
     "Stirring Rhetoric": {
-      "name": "Stirring Rhetoric"
+      "name": "Vibrant Discours",
+      "description": "Vous êtes un orateur talentueux, vos mots portent et ils comptent pour les gens qui vous écoutent.",
+      "rule": "Lorsque vous vous adressez à un groupe et que vous réussissez un test de Rhétorique, vous pouvez désigner un nombre de personnes égal à votre valeur dans cette compétence. Ces personnages peuvent relancer un d20 sur leur prochain test mettant en jeu le principe que vous avez utilisé sur votre test de Rhétorique."
     },
     "Deliberate Motion": {
-      "name": "Deliberate Motion"
+      "name": "Geste Délibéré",
+      "description": "Vous pesez soigneusement chacun de vos gestes et vous avez le pied exceptionnellement sûr.",
+      "rule": "Lorsque vous tentez un test de Mobilité et que vous subissez une ou plusieurs complications, vous pouvez dépenser 1 point d'Impulsion par complication que vous voulez ignorer."
     },
     "Subtle Step": {
-      "name": "Subtle Step"
+      "name": "À Pas de Loup",
+      "description": "Vous connaissez très bien les méthodes pour ne pas vous faire remarquer, et vous dévoilez rarement ce que vous avez vraiment l'intention de faire.",
+      "rule": "Lorsque vous faites un test de Mobilité pour vous faufiler discrètement ou traverser une zone sans vous faire remarquer, ou bien quand vous tentez de déplacer subtilement un atout au cours d'un conflit, le premier d20 supplémentaire que vous achetez pour effectuer ce test ne vous coûte rien."
     },
     "Other Memory": {
-      "name": "Other Memory"
+      "name": "Mémoire Seconde",
+      "description": "Vous avez survécu à l'agonie de l'épice, assistée par une autre Révérende Mère du Bene Gesserit, et vous en êtes devenue une. À présent, vous pouvez faire appel aux souvenirs et à la sagesse de toutes vos ancêtres.",
+      "rule": "Pour choisir ce talent, vous devez être une Révérende Mère du Bene Gesserit et posséder un trait qui reflète ce statut. Si vous l'obtenez en jeu, une autre Révérende Mère doit être présente et en contact physique avec vous pour permettre à cette mémoire génétique de s'éveiller. Lorsque vous faites un test qui bénéficierait de la connaissance des événements passés (même de ceux qui se sont déroulés de nombreuses générations auparavant), vous obtenez trois réussites automatiques. Vous pouvez aussi partager à volonté votre mémoire génétique avec d'autres Révérendes Mères."
     },
     "Driven": {
-      "name": "Driven"
+      "name": "Déterminé",
+      "description": "Votre résolution ne faiblit jamais.",
+      "rule": "Après avoir dépensé 1 point de Détermination, lancez 1d20. Si vous obtenez un résultat inférieur ou égal à votre valeur de Discipline pure, vous regagnez immédiatement ce point."
     },
     "Rapid Recovery": {
-      "name": "Rapid Recovery"
+      "name": "Rétablissement Rapide",
+      "description": "Vous retrouvez vite toutes vos capacités de combattant après avoir été blessé, même si cela peut s'avérer risqué.",
+      "rule": "Une fois par scène, au début de votre tour, vous pouvez concéder 2 points de Menace afin de supprimer une complication symbolisant une blessure. De plus, au cours d'un même conflit, vous pouvez payer une fois de plus pour éviter une blessure."
     },
     "Master-at-Arms": {
-      "name": "Master-at-Arms"
+      "name": "Maître d'Armes",
+      "description": "Votre science du combat est considérable et rares sont ceux à pouvoir rivaliser avec l'efficacité que vous déployez.",
+      "rule": "Au début d'un duel, d'une embuscade ou d'une bataille, choisissez un atout et un seul. Il représentera une arme de mêlée ou une unité de soldats. Votre habileté vous permet de dépenser un point d'Impulsion pour améliorer sa qualité de 1 point pour le prochain conflit au cours de la scène."
     },
     "The Slow Blade": {
-      "name": "The Slow Blade"
+      "name": "La Lame Lente",
+      "description": "La lame lente transperce le bouclier. Vous êtes rompu dans l'art subtil d'éviter les défenses d'un adversaire.",
+      "rule": "Lorsque vous portez une attaque avec une arme de corps à corps au cours d'un duel ou d'une embuscade, et que vous achetez un ou plusieurs dés en dépensant des points d'Impulsion, vous pouvez désigner l'un des atouts de votre adversaire. Il doit se situer dans la même zone que votre attaque. Vous pouvez ignorer cet atout pendant votre attaque."
     },
     "Resilience": {
-      "name": "Resilience"
+      "name": "Ténacité (Capacité, Talent de Fremen)",
+      "description": "Il faut consacrer beaucoup d'énergie à vous abattre au cours d'un conflit. Vous vous relevez plus souvent que la plupart des gens.",
+      "rule": "En général, les personnages ne peuvent « Survivre à la défaite » qu'une fois par scène. Vous êtes capable d'y parvenir deux fois par scène, mais uniquement au cours d'un conflit qui mobilise la compétence concernée."
     },
     "Improved Resources": {
-      "name": "Improved Resources"
+      "name": "Ressources Supérieures",
+      "description": "Vous bénéficiez de la confiance de vos supérieurs, qui vous permettent d'accéder aux outils et aux ressources dont vous avez besoin pour atteindre vos objectifs.",
+      "rule": "Vous pouvez augmenter de 1 le nombre d'atouts que vous possédez. Vous pouvez acheter plusieurs fois ce talent."
     },
     "Ransack": {
-      "name": "Ransack"
+      "name": "Examen Hâtif",
+      "description": "Lorsque le temps presse, vous préférez faire le travail au lieu de couvrir vos traces.",
+      "rule": "Quand vous fouillez une zone et faites un test d'Analyse, vous pouvez concéder 2 points de Menace, diminuer sa difficulté de 1 et diviser par deux le temps que vous passez à effectuer cette recherche."
     },
     "Priority Boarding": {
-      "name": "Priority Boarding"
+      "name": "Embarquement Prioritaire (Talent de la Guilde Spatiale)",
+      "description": "Vous êtes en mesure de faire jouer quelques faveurs, afin que les inspecteurs de la Guilde ne passent pas trop de temps à fouiller vos bagages.",
+      "rule": "Inutile d'offrir des pots-de-vin pour que les employés de la Guilde vous croient sur parole quand vous prétendez ne rien avoir à déclarer. Cela vous permet de faire passer n'importe quoi en contrebande sur l'un de ses vaisseaux. En revanche, si ce que vous y avez amené cause des problèmes à la Guilde, vous perdrez le bénéfice de ce talent."
     },
     "Passive Scrutiny": {
-      "name": "Passive Scrutiny"
+      "name": "Observation Passive",
+      "description": "Vous êtes prompt à remarquer les détails qui pourraient revêtir de l'importance plus tard.",
+      "rule": "Lorsque vous entrez dans une scène, vous pouvez poser une question au meneur de jeu comme si vous aviez dépensé des points d'Impulsion pour Obtenir des informations."
     },
     "Rigorous Control": {
-      "name": "Rigorous Control"
+      "name": "Contrôle Rigoureux",
+      "description": "Vous êtes un îlot de calme dans le chaos de l'univers, et vous gardez votre contrôle même lorsque tout vous échappe.",
+      "rule": "Lorsque vous effectuez une tâche étendue dont les conditions se basent sur l'une de vos compétences, vous pouvez dépenser 1 point d'Impulsion et utiliser votre valeur de Discipline à la place de la compétence utilisée habituellement. Si ces conditions se basaient déjà sur la Discipline, ajoutez +1 à la condition finale appliquée à cette tâche étendue."
     },
     "Cautious": {
-      "name": "Cautious"
+      "name": "Prudent (Compétence)",
+      "description": "Vous êtes patient et circonspect, et vous n'agissez que lors que les chances sont de votre côté",
+      "rule": "Lorsque vous choisissez ce talent, associez-lui une compétence. Si vous faites un test impliquant cette compétence et que vous achetez des d20 supplémentaires en dépensant des points d'Impulsion, vous pouvez relancer un d20 et un seul dans cette réserve de dés."
     },
     "Unquestionable Loyalty": {
-      "name": "Unquestionable Loyalty"
+      "name": "Indéfectible Loyauté",
+      "description": "Votre loyauté envers votre Maison est telle qu'elle peut vous pousser à agir même dans les situations les plus désespérées.",
+      "rule": "Vous commencez chaque aventure avec 1 point de Détermination supplémentaire, que vous ne pourrez utiliser que sur une action au service direct de votre Maison."
     }
   }
 }
