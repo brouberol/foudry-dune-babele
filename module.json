@@ -1,7 +1,7 @@
 {
-  "id": "dune-adventures-imperium-babele",
-  "title": "Dune - Adventures in the Imperium - Babele Compendiun translations",
-  "description": "Compendium translations for the Dune - Adventures in the Imperium game system",
+  "id": "dune-adventures-imperium-babele-fr",
+  "title": "Dune - Adventures in the Imperium - Babele Compendium FR translations",
+  "description": "Compendium French translations for the Dune - Adventures in the Imperium game system",
   "authors": [
     {
       "name": "Balthazar Rouberol"
@@ -20,15 +20,10 @@
       {
         "id": "babele",
         "type": "module"
-      },
-      {
-        "id": "dune",
-        "type": "system"
       }
     ]
   },
-  "relationships.systems": "dune",
-  "url": "https://github.com/brouberol/foudry-dune-babele",
-  "manifest":"https://raw.githubusercontent.com/brouberol/foudry-dune-babele/main/module.json",
-  "download": "https://github.com/brouberol/foudry-dune-babele/archive/refs/heads/main.zip"
+  "url": "https://github.com/brouberol/foundryvtt-dune-system-babele",
+  "manifest":"https://raw.githubusercontent.com/brouberol/foundryvtt-dune-system-babele/1.0.0/module.json",
+  "download": "https://github.com/brouberol/foundryvtt-dune-system-babele/archive/refs/tags/1.0.0.zip"
 }
